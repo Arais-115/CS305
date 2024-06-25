@@ -1,6 +1,7 @@
 # CS305 - Software Security
-# Learned why and how to apply encryption technologies and techniques to communicate securely
+Learned why and how to apply encryption technologies and techniques to communicate securely.
 
+Below is a questionnaire required for coursework:
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
 Artemis Financial is a financial company that offers planned solutions and insurance to customers. What they wanted to address was the secure transfer of information of data between their servers and customers and bring it up to modern standards. 
